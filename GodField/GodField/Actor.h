@@ -8,4 +8,9 @@
 #ifndef INCLUDED_Actor_h_
 #define INCLUDED_Actor_h_
 
+// ゲームに登場する人物のクラス
+class Actor {
+
+};
+
 #endif
