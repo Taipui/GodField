@@ -1,3 +1,10 @@
+/**
+ * @file GameManager.h
+ * @brief ƒQ[ƒ€‚É•K—v‚È’è”‚ğŠÇ—
+ * @author ‚½‚¢‚Õ‚¢
+ * @date 20170410
+ */
+
 #ifndef INCLUDED_GameManager_h_
 #define INCLUDED_GameManager_h_
 
