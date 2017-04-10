@@ -8,4 +8,10 @@
 #ifndef INCLUDED_Card_h_
 #define INCLUDED_Card_h_
 
+// カードのクラス
+class Card
+{
+
+};
+
 #endif
